@@ -1,0 +1,31 @@
+// console.log(typeof values[2]);
+// let contents: [] = [];
+// contents.push(...values);
+
+//validation
+// let content: any = values.filter((input: any) => {
+//   //console.log(input);
+//   input && (input.toString().replace(/\s+/, "") || input === 0);
+//   // console.log(input);
+// });
+//console.log(" ---- filter : " + contents);
+
+
+================================================================
+// for (let obj of data) {
+              //   if (obj) {
+              //     console.log(" 890-  " + obj);
+              //     // obj.startsWith("\\s") &&
+              //     //   obj.startsWith("@") &&
+              //     //   obj.startsWith("#") &&
+              //     //   obj.startsWith("@") &&
+              //     //   obj.startsWith("!");
+
+              //     throw "name should not start with special ";
+              //   } else data;
+
+
+=================================================================
+// let pattern = /\s$#@!/;
+              // let inputTest = pattern.test(String(datas.name));
+              // console.log(datas.name);
